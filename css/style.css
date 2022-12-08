@@ -3422,11 +3422,14 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   font-family: "Source Serif Pro", serif; }
 
 .btn {
+  /*
   padding-top: 12px;
   padding-bottom: 12px;
   padding-left: 30px;
   padding-right: 30px;
   border-radius: 30px;
+  */
+  border-radius: 10px;
   font-size: 14px; }
   .btn:active, .btn:focus {
     outline: none;
@@ -3933,7 +3936,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   margin-bottom: 100px; 
 }
 .hero.hero-inner {
-  padding: 9rem 0 7rem 0;
+  padding: 5rem 0 4rem 0;
   margin-bottom: auto;
   background: #1A374D; }
   .hero h1 {
