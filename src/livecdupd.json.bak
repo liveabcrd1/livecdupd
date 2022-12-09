@@ -157,7 +157,7 @@
       "date": "11/24/15",
       "product": "ABC雜誌2015年12月號",
       "desc": "修正VIP使用者可切換從手機端或電腦端登入學習 ****一般家用、個人使用者不需更新****",
-      "URL": "https://s21.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1512.exe",
       "x64bits": "x64_ABC_1512.exe"
@@ -166,7 +166,7 @@
       "date": "11/24/15",
       "product": "ABC雜誌2016年1月號",
       "desc": "修正VIP使用者可切換從手機端或電腦端登入學習 ****一般家用、個人使用者不需更新****",
-      "URL": "https://s22.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1601.exe",
       "x64bits": "x64_ABC_1601.exe"
@@ -175,7 +175,7 @@
       "date": "9/21/15",
       "product": "ABC雜誌2015年9月號",
       "desc": "修正光碟版本判斷錯誤問題 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "https://s23.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "X32_ABC_1509.exe",
       "x64bits": "x64_ABC_1509.exe"
@@ -184,7 +184,7 @@
       "date": "7/20/15",
       "product": "ABC雜誌2015年8月號",
       "desc": "新增電腦在沒有麥克風裝置下,仍可正常執行測驗功能 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "https://s24.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1508.exe",
       "x64bits": "x64_ABC_1508.exe"
@@ -193,7 +193,7 @@
       "date": "10/14/14",
       "product": "ABC雜誌2014年11月號",
       "desc": "新增VIP客戶手機登入判斷功能 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "https://s25.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1411.exe",
       "x64bits": "x64_ABC_1411.exe"
@@ -202,7 +202,7 @@
       "date": "9/19/14",
       "product": "ABC雜誌2014年10月號",
       "desc": "修正測驗單元,在回看測驗記錄時,所產生的記分錯誤 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "https://s26.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1410.exe",
       "x64bits": "x64_ABC_1410.exe"
@@ -211,7 +211,7 @@
       "date": "8/25/14",
       "product": "ABC雜誌2014年7月號",
       "desc": "修正測驗單元,在回看測驗記錄時,所產生的記分錯誤 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "https://s27.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1407.exe",
       "x64bits": "x64_ABC_1407.exe"
@@ -220,7 +220,7 @@
       "date": "8/25/14",
       "product": "ABC雜誌2014年8月號",
       "desc": "修正測驗單元,在回看測驗記錄時,所產生的記分錯誤 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "https://s28.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1408.exe",
       "x64bits": "x64_ABC_1408.exe"
@@ -229,7 +229,7 @@
       "date": "8/25/14",
       "product": "ABC雜誌2014年9月號",
       "desc": "修正測驗單元,在回看測驗記錄時,所產生的記分錯誤 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "https://s29.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1409.exe",
       "x64bits": "x64_ABC_1409.exe"
@@ -238,7 +238,7 @@
       "date": "8/22/14",
       "product": "ABC雜誌2014年6月號",
       "desc": "修正測驗單元,在回看測驗記錄時,所產生的記分錯誤 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "https://s30.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1406.exe",
       "x64bits": "x64_ABC_1406.exe"
@@ -247,7 +247,7 @@
       "date": "11/20/13",
       "product": "ABC雜誌2013年12月號",
       "desc": "更新產品(Help)輔助說明 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "https://s31.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1312.exe",
       "x64bits": "x64_ABC_1312.exe"
@@ -256,7 +256,7 @@
       "date": "10/23/13",
       "product": "ABC雜誌2013年11月號",
       "desc": "更新產品(Help)輔助說明(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "https://s32.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1311.exe",
       "x64bits": "x64_ABC_1311.exe"
@@ -265,7 +265,7 @@
       "date": "9/17/13",
       "product": "ABC雜誌2013年10月號",
       "desc": "(1)恢復學習課程的 \"列印\" 功能 (2)更新產品(Help) 輔助說明(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "https://s33.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1310.exe",
       "x64bits": "x64_ABC_1310.exe"
@@ -274,7 +274,7 @@
       "date": "8/28/13",
       "product": "ABC雜誌2013年9月號",
       "desc": "恢復學習課程的 \"列印\" 功能(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "https://s34.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1309.exe",
       "x64bits": "x64_ABC_1309.exe"
@@ -283,7 +283,7 @@
       "date": "10/18/12",
       "product": "ABC 2012年11月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "https://s35.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1211.exe",
       "x64bits": "x64_ABC_1211.exe"
@@ -292,7 +292,7 @@
       "date": "10/3/12",
       "product": "ABC 2012年4月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "https://s36.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1204.exe",
       "x64bits": "x64_ABC_1204.exe"
@@ -301,7 +301,7 @@
       "date": "9/18/12",
       "product": "ABC雜誌2012年10月號",
       "desc": "1.圖解開口說之功能修正(32位元) 2.針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "https://s37.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1210.exe",
       "x64bits": "x64_ABC_1210.exe"
@@ -328,7 +328,7 @@
       "date": "8/24/12",
       "product": "ABC雜誌2012年7月號",
       "desc": "1.圖解開口說之功能修正 2.針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "https://s30.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1207.exe",
       "x64bits": "x64_ABC_1207.exe"
@@ -337,7 +337,7 @@
       "date": "8/24/12",
       "product": "ABC雜誌2012年8月號",
       "desc": "1.圖解開口說之功能修正 2.針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "https://s31.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1208.exe",
       "x64bits": "x64_ABC_1208.exe"
@@ -346,7 +346,7 @@
       "date": "8/24/12",
       "product": "ABC雜誌2012年9月號",
       "desc": "1.圖解開口說之功能修正 2.針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "https://s32.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1209.exe",
       "x64bits": "x64_ABC_1209.exe"
@@ -355,7 +355,7 @@
       "date": "6/1/10",
       "product": "ABC_1002互動英語雜誌",
       "desc": "修正自動調整畫面，適用小筆電螢幕。VIP會員登入不可重複點選確定。",
-      "URL": "https://s33.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "ABC_1002.exe"
     },
@@ -363,7 +363,7 @@
       "date": "6/1/10",
       "product": "ABC_1003互動英語雜誌",
       "desc": "修正自動調整畫面，適用小筆電螢幕。VIP會員登入不可重複點選確定。",
-      "URL": "https://s34.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "ABC_1003.exe"
     },
@@ -371,7 +371,7 @@
       "date": "6/1/10",
       "product": "ABC_1004互動英語雜誌",
       "desc": "修正自動調整畫面，適用小筆電螢幕。VIP會員登入不可重複點選確定。",
-      "URL": "https://s35.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "ABC_1004.exe"
     },
@@ -379,7 +379,7 @@
       "date": "5/27/10",
       "product": "ABC_1001互動英語雜誌",
       "desc": "修正自動調整畫面，適用小筆電螢幕。VIP會員登入不可重複點選確定。",
-      "URL": "https://s36.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "ABC_1001.exe"
     },
@@ -387,7 +387,7 @@
       "date": "5/24/10",
       "product": "ABC_1005互動英語雜誌",
       "desc": "修正光碟執行時會出現PPPOE的網路撥號、以及出現Automation錯誤訊息的問題。VIP會員登入不可重複點選確定。",
-      "URL": "https://s37.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "ABC_1005.exe"
     },
@@ -411,7 +411,7 @@
       "date": "10/13/08",
       "product": "ABC_0808互動英語雜誌",
       "desc": "修改「文字學習中」列印出現中文漏字現象",
-      "URL": "https://s30.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "ABC_0808.exe"
     },
@@ -419,7 +419,7 @@
       "date": "10/13/08",
       "product": "ABC_0809互動英語雜誌",
       "desc": "修改「文字學習中」列印出現中文漏字現象",
-      "URL": "https://s31.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "ABC_0809exe"
     },
@@ -427,7 +427,7 @@
       "date": "10/13/08",
       "product": "ABC_0810互動英語雜誌",
       "desc": "修改「文字學習中」列印出現中文漏字現象",
-      "URL": "https://s32.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "ABC_0810.exe"
     },
@@ -435,7 +435,7 @@
       "date": "3/5/08",
       "product": "ABC_0803互動英語雜誌",
       "desc": "解決突然出現stop之訊息",
-      "URL": "https://s33.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "ABC_0803.exe"
     },
@@ -443,7 +443,7 @@
       "date": "3/5/08",
       "product": "ABC_0804互動英語雜誌",
       "desc": "解決突然出現stop之訊息",
-      "URL": "https://s34.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "ABC_0804.exe"
     },
@@ -451,7 +451,7 @@
       "date": "12/13/07",
       "product": "ABC_0712互動英語雜誌",
       "desc": "更新12/12 CDROM版-本日講解 MP3 以及 影片段落定義檔",
-      "URL": "https://s35.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "ABC_0712.exe"
     },
@@ -459,7 +459,7 @@
       "date": "10/30/07",
       "product": "ABC_0710互動英語雜誌",
       "desc": "修改VIP會員登錄問題",
-      "URL": "https://s36.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "ABC_0710.exe"
     },
@@ -467,7 +467,7 @@
       "date": "10/30/07",
       "product": "ABC_0711互動英語雜誌",
       "desc": "修改VIP會員登錄問題",
-      "URL": "https://s37.hicloud.net.tw/livecdupd/",
+      "URL": "https://s3.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "ABC_0711.exe"
     }
