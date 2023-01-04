@@ -350,7 +350,7 @@
       "Folder": "ABC",
       "x32bits": "x32_ABC_1209.exe",
       "x64bits": "x64_ABC_1209.exe"
-    },    
+    }
   ],
   "ALL": [
     {
@@ -550,7 +550,7 @@
       "Folder": "ALL",
       "x32bits": "x32_ALL_1209.exe",
       "x64bits": "x64_ALL_1209.exe"
-    },    
+    }
   ],
   "biz": [
     {
@@ -741,7 +741,7 @@
       "Folder": "biz",
       "x32bits": "biz_1208Patch.exe",
       "x64bits": "biz_1208Patch.exe"
-    },    
+    }    
   ],
   "Books-CD": [
     {
@@ -1760,7 +1760,7 @@
       "Folder": "CNN",
       "x32bits": "x32_CNN_1204.exe",
       "x64bits": "x64_CNN_1204.exe"
-    },    
+    }   
   ],
   "Discovery": [
     {
@@ -2381,7 +2381,7 @@
       "Folder": "Live",
       "x32bits": "8月單字卡.pdf",
       "x64bits": "8月單字卡.pdf"
-    },
+    }
   ],
   "Movie": [
     {
