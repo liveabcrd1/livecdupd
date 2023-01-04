@@ -1781,6 +1781,15 @@
   ],
   "CNN": [
     {
+      "date": "1/4/23",
+      "product": "CNN雜誌2023年01月號",
+      "desc": "修正BNL點讀音檔錯誤的內容",
+      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "Folder": "CNN",
+      "x32bits": "CNN_2301pen.zip",
+      "x64bits": "CNN_2301pen.zip"
+    },
+	{
       "date": "11/10/20",
       "product": "CNN雜誌2020年10月號",
       "desc": "更新字典解說 (for 光碟版)",
