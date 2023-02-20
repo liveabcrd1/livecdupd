@@ -13,7 +13,7 @@
       "date": "6/20/22",
       "product": "ABC互動英語雜誌2022年8月號",
       "desc": "更新\"英語好好玩\"目錄檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_2208.exe",
       "x64bits": "x64_ABC_2208.exe"
@@ -22,7 +22,7 @@
       "date": "12/15/21",
       "product": "ABC互動英語雜誌2022年2月號",
       "desc": "修正測驗單元的問題",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_2202.exe",
       "x64bits": "x64_ABC_2202.exe"
@@ -31,7 +31,7 @@
       "date": "3/4/20",
       "product": "ABC互動英語雜誌2020年4月號",
       "desc": "就愛講英文目錄修正",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_2004.exe",
       "x64bits": "x64_ABC_2004.exe"
@@ -40,7 +40,7 @@
       "date": "10/9/19",
       "product": "ABC互動英語雜誌2019年10月號",
       "desc": "更新電子書資訊",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1910.exe",
       "x64bits": "x64_ABC_1910.exe"
@@ -49,7 +49,7 @@
       "date": "10/30/18",
       "product": "ABC互動英語雜誌2018年11月號",
       "desc": "更正單元 \"品格英語-好事值得等待\" 文字學習內容",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1811.exe",
       "x64bits": "x64_ABC_1811.exe"
@@ -58,7 +58,7 @@
       "date": "10/30/18",
       "product": "ABC互動英語雜誌2018年12月號",
       "desc": "修正索引功能",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1812.exe",
       "x64bits": "x64_ABC_1812.exe"
@@ -67,7 +67,7 @@
       "date": "10/30/18",
       "product": "ABC互動英語雜誌2018年12月號",
       "desc": "更正單元 \"本月之星\" MP3音檔 (檔案名稱: 066.mp3)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "066.mp3",
       "x64bits": "066.mp3"
@@ -76,7 +76,7 @@
       "date": "8/22/18",
       "product": "ABC互動英語雜誌2018年9月號",
       "desc": "更正課程講解影片 [ 9月5日 本月焦點--簡單的形狀,不簡單的藝術 Part C ] (下載後請解壓縮)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "9月5日課程講解.zip",
       "x64bits": "9月5日課程講解.zip"
@@ -85,7 +85,7 @@
       "date": "8/1/18",
       "product": "ABC互動英語雜誌2018年9月號",
       "desc": "修改 就愛講英文 的程式功能",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1809.exe",
       "x64bits": "x64_ABC_1809.exe"
@@ -94,7 +94,7 @@
       "date": "2/14/18",
       "product": "ABC互動英語雜誌2018年4月號",
       "desc": "解決沒有'文法講解'功能的單元,卻出現此按鈕的異常問題",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1804.exe",
       "x64bits": "x64_ABC_1804.exe"
@@ -103,7 +103,7 @@
       "date": "11/15/17",
       "product": "ABC互動英語雜誌2018年1月號",
       "desc": "電子檔內容更新",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1801.exe",
       "x64bits": "x64_ABC_1801.exe"
@@ -112,7 +112,7 @@
       "date": "12/24/15",
       "product": "ABC雜誌2015年12月號 (CDROM/MP3)",
       "desc": "修正12/15課程講解音檔內容(英文開麥拉)----適用光碟版本：CDROM/MP3 ****請注意系統類型為32位元或64位元,並下載對的更新程式****",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1512_CD.exe",
       "x64bits": "x64_ABC_1512_CD.exe"
@@ -121,7 +121,7 @@
       "date": "12/24/15",
       "product": "ABC雜誌2015年12月號 (DVDROM/MP3)",
       "desc": "修正12/15課程講解影片內容(英文開麥拉)----適用光碟版本：DVDROM/MP3 ****請注意系統類型為32位元或64位元,並下載對的更新程式****",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1512_DVD.exe",
       "x64bits": "x64_ABC_1512_DVD.exe"
@@ -130,7 +130,7 @@
       "date": "12/24/15",
       "product": "ABC雜誌2015年12月號 --MP3音檔",
       "desc": "修正12/15課程講解MP3音檔內容(英文開麥拉) ****此為壓縮檔,下載後請解壓縮****",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "ABC_1512_MP3.zip",
       "x64bits": "ABC_1512_MP3.zip"
@@ -139,7 +139,7 @@
       "date": "11/24/15",
       "product": "ABC雜誌2015年10月號",
       "desc": "修正VIP使用者可切換從手機端或電腦端登入學習 ****一般家用、個人使用者不需更新****",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1510.exe",
       "x64bits": "x64_ABC_1510.exe"
@@ -148,7 +148,7 @@
       "date": "11/24/15",
       "product": "ABC雜誌2015年11月號",
       "desc": "修正VIP使用者可切換從手機端或電腦端登入學習 ****一般家用、個人使用者不需更新****",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1511.exe",
       "x64bits": "x64_ABC_1511.exe"
@@ -157,7 +157,7 @@
       "date": "11/24/15",
       "product": "ABC雜誌2015年12月號",
       "desc": "修正VIP使用者可切換從手機端或電腦端登入學習 ****一般家用、個人使用者不需更新****",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1512.exe",
       "x64bits": "x64_ABC_1512.exe"
@@ -166,7 +166,7 @@
       "date": "11/24/15",
       "product": "ABC雜誌2016年1月號",
       "desc": "修正VIP使用者可切換從手機端或電腦端登入學習 ****一般家用、個人使用者不需更新****",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1601.exe",
       "x64bits": "x64_ABC_1601.exe"
@@ -175,7 +175,7 @@
       "date": "9/21/15",
       "product": "ABC雜誌2015年9月號",
       "desc": "修正光碟版本判斷錯誤問題 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "X32_ABC_1509.exe",
       "x64bits": "x64_ABC_1509.exe"
@@ -184,7 +184,7 @@
       "date": "7/20/15",
       "product": "ABC雜誌2015年8月號",
       "desc": "新增電腦在沒有麥克風裝置下,仍可正常執行測驗功能 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1508.exe",
       "x64bits": "x64_ABC_1508.exe"
@@ -193,7 +193,7 @@
       "date": "10/14/14",
       "product": "ABC雜誌2014年11月號",
       "desc": "新增VIP客戶手機登入判斷功能 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1411.exe",
       "x64bits": "x64_ABC_1411.exe"
@@ -202,7 +202,7 @@
       "date": "9/19/14",
       "product": "ABC雜誌2014年10月號",
       "desc": "修正測驗單元,在回看測驗記錄時,所產生的記分錯誤 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1410.exe",
       "x64bits": "x64_ABC_1410.exe"
@@ -211,7 +211,7 @@
       "date": "8/25/14",
       "product": "ABC雜誌2014年7月號",
       "desc": "修正測驗單元,在回看測驗記錄時,所產生的記分錯誤 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1407.exe",
       "x64bits": "x64_ABC_1407.exe"
@@ -220,7 +220,7 @@
       "date": "8/25/14",
       "product": "ABC雜誌2014年8月號",
       "desc": "修正測驗單元,在回看測驗記錄時,所產生的記分錯誤 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1408.exe",
       "x64bits": "x64_ABC_1408.exe"
@@ -229,7 +229,7 @@
       "date": "8/25/14",
       "product": "ABC雜誌2014年9月號",
       "desc": "修正測驗單元,在回看測驗記錄時,所產生的記分錯誤 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1409.exe",
       "x64bits": "x64_ABC_1409.exe"
@@ -238,7 +238,7 @@
       "date": "8/22/14",
       "product": "ABC雜誌2014年6月號",
       "desc": "修正測驗單元,在回看測驗記錄時,所產生的記分錯誤 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1406.exe",
       "x64bits": "x64_ABC_1406.exe"
@@ -247,7 +247,7 @@
       "date": "11/20/13",
       "product": "ABC雜誌2013年12月號",
       "desc": "更新產品(Help)輔助說明 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1312.exe",
       "x64bits": "x64_ABC_1312.exe"
@@ -256,7 +256,7 @@
       "date": "10/23/13",
       "product": "ABC雜誌2013年11月號",
       "desc": "更新產品(Help)輔助說明(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1311.exe",
       "x64bits": "x64_ABC_1311.exe"
@@ -265,7 +265,7 @@
       "date": "9/17/13",
       "product": "ABC雜誌2013年10月號",
       "desc": "(1)恢復學習課程的 \"列印\" 功能 (2)更新產品(Help) 輔助說明(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1310.exe",
       "x64bits": "x64_ABC_1310.exe"
@@ -274,7 +274,7 @@
       "date": "8/28/13",
       "product": "ABC雜誌2013年9月號",
       "desc": "恢復學習課程的 \"列印\" 功能(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1309.exe",
       "x64bits": "x64_ABC_1309.exe"
@@ -283,7 +283,7 @@
       "date": "10/18/12",
       "product": "ABC 2012年11月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1211.exe",
       "x64bits": "x64_ABC_1211.exe"
@@ -292,7 +292,7 @@
       "date": "10/3/12",
       "product": "ABC 2012年4月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1204.exe",
       "x64bits": "x64_ABC_1204.exe"
@@ -301,7 +301,7 @@
       "date": "9/18/12",
       "product": "ABC雜誌2012年10月號",
       "desc": "1.圖解開口說之功能修正(32位元) 2.針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1210.exe",
       "x64bits": "x64_ABC_1210.exe"
@@ -310,7 +310,7 @@
       "date": "8/24/12",
       "product": "ABC雜誌2012年5月號",
       "desc": "1.圖解開口說之功能修正 2.針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "https://s38.hicloud.net.tw/livecdupd/",
+      "URL": "httpss://s38.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1205.exe",
       "x64bits": "x64_ABC_1205.exe"
@@ -319,7 +319,7 @@
       "date": "8/24/12",
       "product": "ABC雜誌2012年6月號",
       "desc": "1.圖解開口說之功能修正 2.針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "https://s39.hicloud.net.tw/livecdupd/",
+      "URL": "httpss://s39.hicloud.net.tw/livecdupd/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1206.exe",
       "x64bits": "x64_ABC_1206.exe"
@@ -328,7 +328,7 @@
       "date": "8/24/12",
       "product": "ABC雜誌2012年7月號",
       "desc": "1.圖解開口說之功能修正 2.針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1207.exe",
       "x64bits": "x64_ABC_1207.exe"
@@ -337,7 +337,7 @@
       "date": "8/24/12",
       "product": "ABC雜誌2012年8月號",
       "desc": "1.圖解開口說之功能修正 2.針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1208.exe",
       "x64bits": "x64_ABC_1208.exe"
@@ -346,7 +346,7 @@
       "date": "8/24/12",
       "product": "ABC雜誌2012年9月號",
       "desc": "1.圖解開口說之功能修正 2.針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ABC",
       "x32bits": "x32_ABC_1209.exe",
       "x64bits": "x64_ABC_1209.exe"
@@ -357,7 +357,7 @@
       "date": "5/29/20",
       "product": "ALL+互動英語雜誌2020年1月號",
       "desc": "修正VIP學習課程亂碼",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_2001.exe",
       "x64bits": "x64_ALL_2001.exe"
@@ -366,7 +366,7 @@
       "date": "5/29/20",
       "product": "ALL+互動英語雜誌2020年2月號",
       "desc": "修正VIP學習課程亂碼",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_2002.exe",
       "x64bits": "x64_ALL_2002.exe"
@@ -375,7 +375,7 @@
       "date": "5/29/20",
       "product": "ALL+互動英語雜誌2020年3月號",
       "desc": "修正VIP學習課程亂碼",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_2003.exe",
       "x64bits": "x64_ALL_2003.exe"
@@ -384,7 +384,7 @@
       "date": "3/18/19",
       "product": "ALL+互動英語雜誌2019年4月號",
       "desc": "修正索引內容",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1904.exe",
       "x64bits": "x64_ALL_1904.exe"
@@ -393,7 +393,7 @@
       "date": "10/30/18",
       "product": "ALL+互動英語雜誌2018年12月號",
       "desc": "修正索引功能",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1812.exe",
       "x64bits": "x64_ALL_1812.exe"
@@ -402,7 +402,7 @@
       "date": "7/20/16",
       "product": "ALL+雜誌2016年8月號",
       "desc": "修正課程講解內容(mp3檔案:084.mp3)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1608.exe",
       "x64bits": "x64_ALL_1608.exe"
@@ -411,7 +411,7 @@
       "date": "3/22/16",
       "product": "ALL+雜誌2016年4月號",
       "desc": "更新索引內容",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1604.exe",
       "x64bits": "x64_ALL_1604.exe"
@@ -420,7 +420,7 @@
       "date": "3/9/16",
       "product": "ALL+雜誌2016年3月號",
       "desc": "修正3/17課程講解095.mp3 ＆ explsec.txt內容",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1603.exe",
       "x64bits": "x64_ALL_1603.exe"
@@ -429,7 +429,7 @@
       "date": "9/8/15",
       "product": "ALL+雜誌2015年7月號",
       "desc": "修正mp3檔案Track36(36.mp3)的錯誤",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "All+_1507_36.mp3",
       "x64bits": "All+_1507_36.mp3"
@@ -438,7 +438,7 @@
       "date": "7/3/15",
       "product": "ALL+雜誌2015年7月號",
       "desc": "(企業用戶專用修正程式) 修改 VIP讀者操作 登入> 進入課程> 離開,未記錄學習時間 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1507.exe",
       "x64bits": "x64_ALL_1507.exe"
@@ -447,7 +447,7 @@
       "date": "7/3/15",
       "product": "ALL+雜誌2015年8月號",
       "desc": "(企業用戶專用修正程式) 修改 VIP讀者操作 登入> 進入課程> 離開,未記錄學習時間 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1508.exe",
       "x64bits": "x64_ALL_1508.exe"
@@ -456,7 +456,7 @@
       "date": "3/12/15",
       "product": "ALL+雜誌2015年4月號",
       "desc": "修正4月23日課程講解的音檔和段落檔的錯誤 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1504.exe",
       "x64bits": "x64_ALL_1504.exe"
@@ -465,7 +465,7 @@
       "date": "10/14/14",
       "product": "ALL+雜誌2014年11月號",
       "desc": "新增VIP客戶手機登入判斷功能 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1411.exe",
       "x64bits": "x64_ALL_1411.exe"
@@ -474,7 +474,7 @@
       "date": "9/17/13",
       "product": "ALL+雜誌2013年10月號",
       "desc": "恢復學習課程的 \"列印\" 功能(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1310.exe",
       "x64bits": "x64_ALL_1310.exe"
@@ -483,7 +483,7 @@
       "date": "8/28/13",
       "product": "ALL+雜誌2013年9月號",
       "desc": "恢復學習課程的 \"列印\" 功能(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1309.exe",
       "x64bits": "x64_ALL_1309.exe"
@@ -492,7 +492,7 @@
       "date": "10/18/12",
       "product": "ALL+ 2012年11月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1211.exe",
       "x64bits": "x64_ALL_1211.exe"
@@ -501,7 +501,7 @@
       "date": "10/1/12",
       "product": "ALL+ 2012年10月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1210.exe",
       "x64bits": "x64_ALL_1210.exe"
@@ -510,7 +510,7 @@
       "date": "10/1/12",
       "product": "ALL+ 2012年5月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1205.exe",
       "x64bits": "x64_ALL_1205.exe"
@@ -519,7 +519,7 @@
       "date": "10/1/12",
       "product": "ALL+ 2012年6月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1206.exe",
       "x64bits": "x64_ALL_1206.exe"
@@ -528,7 +528,7 @@
       "date": "10/1/12",
       "product": "ALL+ 2012年7月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1207.exe",
       "x64bits": "x64_ALL_1207.exe"
@@ -537,7 +537,7 @@
       "date": "10/1/12",
       "product": "ALL+ 2012年8月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1208.exe",
       "x64bits": "x64_ALL_1208.exe"
@@ -546,7 +546,7 @@
       "date": "10/1/12",
       "product": "ALL+ 2012年9月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "ALL",
       "x32bits": "x32_ALL_1209.exe",
       "x64bits": "x64_ALL_1209.exe"
@@ -557,7 +557,7 @@
       "date": "11/23/17",
       "product": "biz 互動英語雜誌2017年12月號",
       "desc": "更新片語內容 (Page32)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1712.exe",
       "x64bits": "x64_biz_1712.exe"
@@ -566,7 +566,7 @@
       "date": "9/2/16",
       "product": "biz雜誌2016年9月號",
       "desc": "VIP用戶專用修正檔,以避免無法記錄學習時間 (一般使用者不需要更新)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1609.exe",
       "x64bits": "x64_biz_1609.exe"
@@ -575,7 +575,7 @@
       "date": "7/21/16",
       "product": "biz雜誌2016年8月號",
       "desc": "修正TOEIC錯誤",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1608.exe",
       "x64bits": "x64_biz_1608.exe"
@@ -584,7 +584,7 @@
       "date": "11/18/15",
       "product": "biz雜誌2015年12月號",
       "desc": "修正:(1)\"角色扮演\"按鈕顯示問題 (2)XP系統-麥克風偵測錯誤",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1512.exe",
       "x64bits": "x64_biz_1512.exe"
@@ -593,7 +593,7 @@
       "date": "7/3/15",
       "product": "biz雜誌2015年7月號",
       "desc": "(企業用戶專用修正程式) 修改 VIP讀者操作 登入> 進入課程> 離開,未記錄學習時間 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1507.exe",
       "x64bits": "x64_biz_1507.exe"
@@ -602,7 +602,7 @@
       "date": "1/27/15",
       "product": "biz互動英語雜誌2015年2月號",
       "desc": "修正雜誌第58頁的課文內容 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1502.exe",
       "x64bits": "x64_biz_1502.exe"
@@ -611,7 +611,7 @@
       "date": "11/26/13",
       "product": "biz雜誌2013年12月號",
       "desc": "補充互動光碟遺漏之mp3音檔: biz雜誌2013年12月號第9頁 '上班族夯話題' mp3音檔 (下載後可直接閱讀)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "Trendy Topics.mp3",
       "x64bits": "Trendy Topics.mp3"
@@ -620,7 +620,7 @@
       "date": "9/17/13",
       "product": "biz雜誌2013年10月號",
       "desc": "雜誌內容勘誤(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1310.exe",
       "x64bits": "x64_biz_1310.exe"
@@ -629,7 +629,7 @@
       "date": "8/28/13",
       "product": "biz雜誌2013年9月號",
       "desc": "恢復學習課程的 \"列印\" 功能(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1309.exe",
       "x64bits": "x64_biz_1309.exe"
@@ -638,7 +638,7 @@
       "date": "5/23/13",
       "product": "biz 2013年6月號",
       "desc": "更正單字解說內容(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1306.exe",
       "x64bits": "x64_biz_1306.exe"
@@ -647,7 +647,7 @@
       "date": "11/1/12",
       "product": "biz 2010年5月號",
       "desc": "更新biz雜誌2010年5月號mp3音檔 (下載後解壓縮存檔即可使用)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "biz_201005-mp3.rar",
       "x64bits": "biz_201005-mp3.rar"
@@ -656,7 +656,7 @@
       "date": "10/2/12",
       "product": "biz 2012年10月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1210.exe",
       "x64bits": "x64_biz_1210.exe"
@@ -665,7 +665,7 @@
       "date": "10/2/12",
       "product": "biz 2012年2月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1202.exe",
       "x64bits": "x64_biz_1202.exe"
@@ -674,7 +674,7 @@
       "date": "10/2/12",
       "product": "biz 2012年3月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1203.exe",
       "x64bits": "x64_biz_1203.exe"
@@ -683,7 +683,7 @@
       "date": "10/2/12",
       "product": "biz 2012年4月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1204.exe",
       "x64bits": "x64_biz_1204.exe"
@@ -692,7 +692,7 @@
       "date": "10/2/12",
       "product": "biz 2012年5月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1205.exe",
       "x64bits": "x64_biz_1205.exe"
@@ -701,7 +701,7 @@
       "date": "10/2/12",
       "product": "biz 2012年6月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1206.exe",
       "x64bits": "x64_biz_1206.exe"
@@ -710,7 +710,7 @@
       "date": "10/2/12",
       "product": "biz 2012年7月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1207.exe",
       "x64bits": "x64_biz_1207.exe"
@@ -719,7 +719,7 @@
       "date": "10/2/12",
       "product": "biz 2012年8月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1208.exe",
       "x64bits": "x64_biz_1208.exe"
@@ -728,7 +728,7 @@
       "date": "10/2/12",
       "product": "biz 2012年9月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "x32_biz_1209.exe",
       "x64bits": "x64_biz_1209.exe"
@@ -737,7 +737,7 @@
       "date": "8/8/12",
       "product": "biz雜誌 2012年8月號",
       "desc": "更正 \"足部保健有一套II\" 單字解說mp3 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "biz",
       "x32bits": "biz_1208Patch.exe",
       "x64bits": "biz_1208Patch.exe"
@@ -748,7 +748,7 @@
       "date": "12/6/18",
       "product": "Kids互動英語雜誌-第1期",
       "desc": "執行時跳過片頭動畫 直接進入主畫面 (for win10)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_Kids1511.exe",
       "x64bits": "x64_Kids1511.exe"
@@ -757,7 +757,7 @@
       "date": "5/16/18",
       "product": "官方頒訂 新版多益13大情境學習指南",
       "desc": "TOEIC®模擬試題答案紙更正版(PDF檔)....檔案開啟後,請點擊瀏覽器上的下載或儲存按鈕",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "Model Test_P291.pdf",
       "x64bits": "Model Test_P291.pdf"
@@ -766,7 +766,7 @@
       "date": "5/16/18",
       "product": "專攻NEW TOEIC文法解題秘技(增修版)",
       "desc": "TOEIC®模擬試題答案紙更正版(PDF檔)....檔案開啟後,請點擊瀏覽器上的下載或儲存按鈕",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "Model Test_P291.pdf",
       "x64bits": "Model Test_P291.pdf"
@@ -775,7 +775,7 @@
       "date": "5/16/18",
       "product": "圖表解構New TOEIC必考7大題型(全新增修版)",
       "desc": "TOEIC®模擬試題答案紙更正版(PDF檔)....檔案開啟後,請點擊瀏覽器上的下載或儲存按鈕",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "Model Test_P291.pdf",
       "x64bits": "Model Test_P291.pdf"
@@ -784,7 +784,7 @@
       "date": "5/10/18",
       "product": "NEW TOEIC 7大題型拿滿分秘技(全新增修版)",
       "desc": "TOEIC®模擬試題答案紙更正版(PDF檔)....檔案開啟後,請點擊瀏覽器上的下載或儲存按鈕",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "Model Test_P291.pdf",
       "x64bits": "Model Test_P291.pdf"
@@ -793,7 +793,7 @@
       "date": "12/26/16",
       "product": "ALL+特刊--英語探索世界",
       "desc": "更新P174中譯解答內容",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "p174 中譯解答.pdf",
       "x64bits": "p174 中譯解答.pdf"
@@ -802,7 +802,7 @@
       "date": "12/22/16",
       "product": "上班族不能不會的商業+辦公室英語會話(點讀版)",
       "desc": "更新: 點擊'文字學習' 無法使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_OfficeTalk8.exe",
       "x64bits": "x64_OfficeTalk8.exe"
@@ -811,7 +811,7 @@
       "date": "8/3/16",
       "product": "CNN主播教你說英語_企業品牌故事+CEO專訪",
       "desc": "修正 單字解說 錯誤",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_CNN_Brand2.exe",
       "x64bits": "x64_CNN_Brand2.exe"
@@ -820,7 +820,7 @@
       "date": "11/30/15",
       "product": "天天都要說的圖解生活情境英語會話",
       "desc": "聽力會考音檔(mp3檔) ****下載後請執行解壓縮動作****",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "ABC_145SE.rar",
       "x64bits": "ABC_145SE.rar"
@@ -829,7 +829,7 @@
       "date": "5/28/15",
       "product": "IKU老師說一定會考的新日檢高分單字N2－N1",
       "desc": "測驗單元必要元件",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "JLPT_02.exe"
     },
@@ -837,7 +837,7 @@
       "date": "5/20/14",
       "product": "全民英檢初級全真模考+詳解",
       "desc": "缺題補檔，第45頁，第21題~25題之題目檔案",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "Questions 2021-25.doc",
       "x64bits": "Questions 2021-25.doc"
@@ -846,7 +846,7 @@
       "date": "12/11/13",
       "product": "上班族不能不會的....開會+簡報即用英語",
       "desc": "單字索引更新內容 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_OfficeTalk7.exe",
       "x64bits": "x64_OfficeTalk7.exe"
@@ -855,20 +855,20 @@
       "date": "11/1/13",
       "product": "看一次就懂-徹底學會英文句型",
       "desc": "修正重複播放功能****特別注意；光碟片上的印製日期為2013年9月~~無須更新****(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_ABC_TE03.exe",
       "x64bits": "x64_ABC_TE03.exe"
     },
     {
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD"
     },
     {
       "date": "8/1/13",
       "product": "LiveABC互動英語會話百科-生活與休閒 Disc1",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_Live3D03.exe",
       "x64bits": "x64_Live3D03.exe"
@@ -877,7 +877,7 @@
       "date": "8/1/13",
       "product": "LiveABC互動英語會話百科-生活與休閒 Disc2",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_Live3D04.exe",
       "x64bits": "x64_Live3D04.exe"
@@ -886,7 +886,7 @@
       "date": "8/1/13",
       "product": "搶救上班族英語-用英語開會 Disc1",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_Meetings1_1.exe",
       "x64bits": "x64_Meetings1_1.exe"
@@ -895,7 +895,7 @@
       "date": "8/1/13",
       "product": "搶救上班族英語-用英語開會 Disc2",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_Meetings1_2.exe",
       "x64bits": "x64_Meetings1_2.exe"
@@ -904,7 +904,7 @@
       "date": "8/1/13",
       "product": "搶救上班族英語-辦公室會話篇 Disc2",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_OfficeTalk1_2.exe",
       "x64bits": "x64_OfficeTalk1_2.exe"
@@ -913,7 +913,7 @@
       "date": "8/1/13",
       "product": "LiveABC互動英語會話百科-居家與校園 Disk1",
       "desc": "提供給某些PC無法AutoPlay影片的修正程式(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_Live3D51.exe",
       "x64bits": "x64_Live3D51.exe"
@@ -922,7 +922,7 @@
       "date": "8/1/13",
       "product": "LiveABC互動英語會話百科-居家與校園 Disk2",
       "desc": "提供給某些PC無法AutoPlay影片的修正程式(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_Live3D52.exe",
       "x64bits": "x64_Live3D52.exe"
@@ -931,7 +931,7 @@
       "date": "8/1/13",
       "product": "英語字母好好玩",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_KidsA2Z.exe",
       "x64bits": "x64_KidsA2Z.exe"
@@ -940,7 +940,7 @@
       "date": "8/1/13",
       "product": "單字的奧義-字首、字根、字尾",
       "desc": "修正光碟無法執行於英文系統的問題(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_Prefix_01.exe",
       "x64bits": "x64_Prefix_01.exe"
@@ -949,7 +949,7 @@
       "date": "8/1/13",
       "product": "搶救上班族英語-商業會話篇 Disc1",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_BizTalk01_1.exe",
       "x64bits": "x64_BizTalk01_1.exe"
@@ -958,7 +958,7 @@
       "date": "8/1/13",
       "product": "搶救上班族英語-商業會話篇 Disc2",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_BizTalk01_2.exe",
       "x64bits": "x64_BizTalk01_2.exe"
@@ -967,7 +967,7 @@
       "date": "8/1/13",
       "product": "搶救上班族英語-商業寫作",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_Writing01.exe",
       "x64bits": "x64_Writing01.exe"
@@ -976,7 +976,7 @@
       "date": "8/1/13",
       "product": "搶救上班族英語-辦公室會話篇 Disc1",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_OfficeTalk1_1.exe",
       "x64bits": "x64_OfficeTalk1_1.exe"
@@ -985,7 +985,7 @@
       "date": "7/30/13",
       "product": "LiveABC互動英語會話百科-觀光與旅遊 Disc1",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_Live3D01.exe",
       "x64bits": "x64_Live3D01.exe"
@@ -994,7 +994,7 @@
       "date": "7/30/13",
       "product": "LiveABC互動英語會話百科-觀光與旅遊 Disc2",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_Live3D02.exe",
       "x64bits": "x64_Live3D02.exe"
@@ -1003,7 +1003,7 @@
       "date": "4/30/13",
       "product": "老外教你說英語--實戰應用篇(Disc1)",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_ALL_Focus01.exe",
       "x64bits": "x64_ALL_Focus01.exe"
@@ -1012,7 +1012,7 @@
       "date": "4/30/13",
       "product": "老外教你說英語--實戰應用篇(Disc2)",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_ALL_Focus02.exe",
       "x64bits": "x64_ALL_Focus02.exe"
@@ -1021,7 +1021,7 @@
       "date": "4/17/13",
       "product": "Biz-100期特刊 英文商業書信大全",
       "desc": "針對執行時, 出現\"Runtime error 380\" ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_biz_100SE.exe",
       "x64bits": "x64_biz_100SE.exe"
@@ -1030,7 +1030,7 @@
       "date": "10/31/12",
       "product": "吃喝玩樂超實用英語會話一本通",
       "desc": "更新角色扮演功能,在說完句子後無法繼續的問題 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_LivePT_04.exe",
       "x64bits": "x64_LivePT_04.exe"
@@ -1039,7 +1039,7 @@
       "date": "10/15/12",
       "product": "聽懂CNN英語_環遊世界一定行",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_CNN_Travel.exe",
       "x64bits": "x64_CNN_Travel.exe"
@@ -1048,7 +1048,7 @@
       "date": "9/11/12",
       "product": "觀光英語(旅遊、購物、餐廳英語,一本全搞定)",
       "desc": "Tourism Answer Key",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "Tourism Answer Key.rar",
       "x64bits": "Tourism Answer Key.rar"
@@ -1057,7 +1057,7 @@
       "date": "5/11/12",
       "product": "全民英檢初級.滿分攻略",
       "desc": "更正內容, Page380-381",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "U10(pp.380-381).pdf",
       "x64bits": "U10(pp.380-381).pdf"
@@ -1066,7 +1066,7 @@
       "date": "2/29/12",
       "product": "一看就會 圖解英語發音",
       "desc": "一看就會 圖解英語發音，點讀筆音檔下載。",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "pic_sounds.zip",
       "x64bits": "pic_sounds.zip"
@@ -1075,7 +1075,7 @@
       "date": "8/25/11",
       "product": "全民英檢中級完全攻略本",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_GEPT-11.exe",
       "x64bits": "x64_GEPT-11.exe"
@@ -1084,7 +1084,7 @@
       "date": "6/14/11",
       "product": "全民應檢中級完全攻略本-MP3",
       "desc": "全民英檢中級完全攻略本-光碟內容的MP3",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "GEPT11_MP3.zip",
       "x64bits": "GEPT11_MP3.zip"
@@ -1093,7 +1093,7 @@
       "date": "2/16/11",
       "product": "老外教你說英語 Disc1",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_ABC_Focus01.exe",
       "x64bits": "x64_ABC_Focus01.exe"
@@ -1102,7 +1102,7 @@
       "date": "2/16/11",
       "product": "老外教你說英語 Disc2",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_ABC_Focus02.exe",
       "x64bits": "x64_ABC_Focus02.exe"
@@ -1111,7 +1111,7 @@
       "date": "9/30/10",
       "product": "NEW TOEIC 必考單字與片語",
       "desc": "修正小筆電於測驗時發生圖片按鈕重疊的問題。(小筆電專用) ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_TOEIC_06.exe",
       "x64bits": "x64_TOEIC_06.exe"
@@ -1120,7 +1120,7 @@
       "date": "9/30/10",
       "product": "NEW TOEIC 閱讀應考對策",
       "desc": "修正小筆電於測驗時發生圖片按鈕重疊的問題。(小筆電專用) ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_TOEIC_05.exe",
       "x64bits": "x64_TOEIC_05.exe"
@@ -1129,7 +1129,7 @@
       "date": "9/29/10",
       "product": "NEW TOEIC 聽力應考對策",
       "desc": "修正小筆電於測驗時發生圖片按鈕重疊的問題。(小筆電專用) ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "x32_TOEIC_04.exe",
       "x64bits": "x64_TOEIC_04.exe"
@@ -1138,7 +1138,7 @@
       "date": "6/10/10",
       "product": "Huayu20",
       "desc": "Index/Dictionany/Voca List Scorllbar Fixed",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "HuaYu20.exe",
       "x64bits": "HuaYu20.exe"
@@ -1147,7 +1147,7 @@
       "date": "10/1/08",
       "product": "生活口語說數字．MP3",
       "desc": "朗讀版MP3格式檔案",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "LiveSpoken.zip"
     },
@@ -1155,7 +1155,7 @@
       "date": "2/18/08",
       "product": "互動英語發音魔法書",
       "desc": "互動英語發音魔法書MP3檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-CD",
       "x32bits": "KKMagic_MP3.exe"
     }
@@ -1165,7 +1165,7 @@
       "date": "4/22/21",
       "product": "英文閱讀與寫作-Level Up",
       "desc": "mp3音檔....下載後請解壓縮, 可獲得MP3音檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "英文閱讀與寫作-Level Up.zip",
       "x64bits": "英文閱讀與寫作-Level Up.zip"
@@ -1174,7 +1174,7 @@
       "date": "2/26/21",
       "product": "英語聽講_1 (Tap Into English_Book 1)",
       "desc": "mp3音檔....下載後請解壓縮, 可獲得MP3音檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "英語聽講_1 (Tap Into English_Book 1).zip",
       "x64bits": "英語聽講_1 (Tap Into English_Book 1).zip"
@@ -1183,7 +1183,7 @@
       "date": "2/4/21",
       "product": "英語聽講_2 (Tap Into English_Book 2)",
       "desc": "mp3音檔....下載後請解壓縮, 可獲得MP3音檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "英語聽講_2.zip",
       "x64bits": "英語聽講_2.zip"
@@ -1192,7 +1192,7 @@
       "date": "2/3/21",
       "product": "中階英文閱讀與寫作練習_下冊 (Leap Ahead_Intermediate 2)",
       "desc": "mp3音檔....下載後請解壓縮, 可獲得MP3音檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "中階英文閱讀與寫作練習(下冊).zip",
       "x64bits": "中階英文閱讀與寫作練習(下冊).zip"
@@ -1201,7 +1201,7 @@
       "date": "2/3/21",
       "product": "中階英語聽講練習_下冊 (Hear & Say_Intermediate 2)",
       "desc": "mp3音檔....下載後請解壓縮, 可獲得MP3音檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "中階英語聽講練習(下冊).zip",
       "x64bits": "中階英語聽講練習(下冊).zip"
@@ -1210,7 +1210,7 @@
       "date": "8/12/20",
       "product": "中階英文閱讀與寫作練習_上冊 (Leap Ahead_Intermediate 1)",
       "desc": "mp3音檔....下載後請解壓縮, 可獲得MP3音檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "中階英文閱讀與寫作練習(上冊)MP3.zip",
       "x64bits": "中階英文閱讀與寫作練習(上冊)MP3.zip"
@@ -1219,7 +1219,7 @@
       "date": "8/12/20",
       "product": "中階英語聽講練習_上冊 (Hear & Say_Intermediate 1)",
       "desc": "mp3音檔....下載後請解壓縮, 可獲得MP3音檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "中階英語聽講練習(上冊)MP3.zip",
       "x64bits": "中階英語聽講練習(上冊)MP3.zip"
@@ -1228,7 +1228,7 @@
       "date": "11/19/19",
       "product": "初階英文閱讀與寫作練習_下冊 (Leap Ahead_Basic 2)",
       "desc": "mp3音檔....下載後請解壓縮, 可獲得MP3音檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "初階英文閱讀與寫作練習(下冊)MP3.rar",
       "x64bits": "初階英文閱讀與寫作練習(下冊)MP3.rar"
@@ -1237,7 +1237,7 @@
       "date": "11/19/19",
       "product": "初階英語聽講練習_下冊 (Hear & Say_Basic 2)",
       "desc": "mp3音檔....下載後請解壓縮, 可獲得MP3音檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "初階英語聽講練習(下冊)MP3.rar",
       "x64bits": "初階英語聽講練習(下冊)MP3.rar"
@@ -1246,7 +1246,7 @@
       "date": "7/15/19",
       "product": "單字的奧義-字首字根字尾",
       "desc": "mp3音檔....下載後請解壓縮, 可獲得MP3音檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "單字的奧義-字首字根字尾mp3.rar",
       "x64bits": "單字的奧義-字首字根字尾mp3.rar"
@@ -1255,7 +1255,7 @@
       "date": "6/5/19",
       "product": "初階英語聽講練習_上冊 (Hear & Say_Basic 1)",
       "desc": "mp3音檔....下載後請解壓縮, 可獲得MP3音檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "初階英語聽講練習(上冊).rar",
       "x64bits": "初階英語聽講練習(上冊).rar"
@@ -1264,7 +1264,7 @@
       "date": "5/20/19",
       "product": "初階英文閱讀與寫作練習_上冊 (Leap Ahead_Basic 1)",
       "desc": "mp3音檔....下載後請解壓縮, 可獲得MP3音檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "初階英文閱讀與寫作練習(上冊).rar",
       "x64bits": "初階英文閱讀與寫作練習(上冊).rar"
@@ -1273,7 +1273,7 @@
       "date": "3/18/19",
       "product": "情境式西班牙語圖解字典 (全新增修版)",
       "desc": "點讀筆音檔(適用於 MyVoice 點讀筆)。下載後請將檔案複製到點讀筆內, 即可使用 (32位元和64位元通用 擇一下載即可)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "情境式西班牙語圖解字典 (全新增修版).bnl",
       "x64bits": "情境式西班牙語圖解字典 (全新增修版).bnl"
@@ -1282,7 +1282,7 @@
       "date": "2/13/19",
       "product": "手繪英語極短句(口袋書)",
       "desc": "點讀筆音檔(適用於 MyVoice 點讀筆)。下載後請將檔案複製到點讀筆內, 即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "手繪英語極短句.bnl",
       "x64bits": "手繪英語極短句.bnl"
@@ -1291,7 +1291,7 @@
       "date": "2/13/19",
       "product": "手繪英語極短句(口袋書)",
       "desc": "mp3音檔....下載後請執行該檔案,並點擊 安裝 會自動解壓縮到目前所在位置",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "手繪英語極短句MP3.exe",
       "x64bits": "手繪英語極短句MP3.exe"
@@ -1300,7 +1300,7 @@
       "date": "2/13/19",
       "product": "手繪英語極短句(口袋書)",
       "desc": "點讀筆音檔(適用於 LivePen 點讀筆)。下載後請將檔案複製到點讀筆的book資料夾, 即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "手繪英語極短句.ECM",
       "x64bits": "手繪英語極短句.ECM"
@@ -1309,7 +1309,7 @@
       "date": "2/13/19",
       "product": "日文圖解實務口語(口袋書)",
       "desc": "點讀筆音檔(適用於 LivePen 點讀筆)。下載後請將檔案複製到點讀筆的book資料夾, 即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "日文圖解實務口語.ECM",
       "x64bits": "日文圖解實務口語.ECM"
@@ -1318,7 +1318,7 @@
       "date": "2/13/19",
       "product": "日文圖解實務口語(口袋書)",
       "desc": "點讀筆音檔(適用於 MyVoice 點讀筆)。下載後請將檔案複製到點讀筆內, 即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "日文圖解實務口語.bnl",
       "x64bits": "日文圖解實務口語.bnl"
@@ -1327,7 +1327,7 @@
       "date": "2/13/19",
       "product": "日文圖解實務口語(口袋書)",
       "desc": "mp3音檔....下載後請執行該檔案,並點擊 安裝 會自動解壓縮到目前所在位置",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "日文圖解實務口語MP3.exe",
       "x64bits": "日文圖解實務口語MP3.exe"
@@ -1336,7 +1336,7 @@
       "date": "8/29/18",
       "product": "日本經典故事選 (口袋書)",
       "desc": "點讀筆音檔(適用於 LivePen 點讀筆)。下載後請執行該檔案,並點擊 安裝 會自動解壓縮, 再將解壓縮後的檔案複製到點讀筆的book資料夾, 即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "日本經典故事選 (口袋書)點讀檔.exe",
       "x64bits": "日本經典故事選 (口袋書)點讀檔.exe"
@@ -1345,7 +1345,7 @@
       "date": "8/29/18",
       "product": "日本經典故事選 (口袋書)",
       "desc": "mp3音檔....下載後請執行該檔案,並點擊 安裝 會自動解壓縮",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "日本經典故事選 (口袋書) MP3.exe",
       "x64bits": "日本經典故事選 (口袋書) MP3.exe"
@@ -1354,7 +1354,7 @@
       "date": "4/3/18",
       "product": "英語核心字彙完全攻略 2000-4500 (2-4級)",
       "desc": "mp3音檔....下載後請執行該檔案,並點擊 安裝 會自動解壓縮到當前資料夾",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "英語核心字彙完全攻略 2000-4500 (2-4級)MP3.exe",
       "x64bits": "英語核心字彙完全攻略 2000-4500 (2-4級)MP3.exe"
@@ -1363,7 +1363,7 @@
       "date": "3/19/18",
       "product": "跨文化宣教語言工具書",
       "desc": "點讀筆音檔--ECM檔,適用於 LivePen 點讀筆。下載後請檔案複製到點讀筆的book資料夾, 即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "跨文化宣教語言工具書.ECM",
       "x64bits": "跨文化宣教語言工具書.ECM"
@@ -1372,7 +1372,7 @@
       "date": "3/6/18",
       "product": "日文圖解生活口語 (口袋書)",
       "desc": "mp3音檔和點讀音檔....下載後請執行該檔案,並點擊 安裝 會自動解壓縮到 c:\\日文圖解生活口語",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "日文圖解生活口語 (口袋書).exe",
       "x64bits": "日文圖解生活口語 (口袋書).exe"
@@ -1381,20 +1381,20 @@
       "date": "3/1/18",
       "product": "片語300選 (口袋書)",
       "desc": "mp3音檔....下載後請執行該檔案,並點擊 安裝 會自動解壓縮到 c:\\片語300選口袋書MP3",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "片語300選 (口袋書) MP3.exe",
       "x64bits": "片語300選 (口袋書) MP3.exe"
     },
     {
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD"
     },
     {
       "date": "9/4/17",
       "product": "國民英語2500-4500核心單字(口袋書)",
       "desc": "mp3音檔....下載後請執行該檔案,並點擊 安裝 會自動解壓縮到檔案所在的位置",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "國民英語2500-4500核心單字(口袋書) mp3.exe",
       "x64bits": "國民英語2500-4500核心單字(口袋書) mp3.exe"
@@ -1403,7 +1403,7 @@
       "date": "7/25/17",
       "product": "超實用圖解生活日語(口袋書)",
       "desc": "mp3音檔....下載後請執行該檔案,並點擊 安裝 會自動解壓縮到 c:\\mp3",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "超實用圖解生活日語(口袋書) MP3音檔.exe",
       "x64bits": "超實用圖解生活日語(口袋書) MP3音檔.exe"
@@ -1412,7 +1412,7 @@
       "date": "1/9/17",
       "product": "Jump To Live My Body Parts_身體書",
       "desc": "點讀筆音檔--ECM檔,適用於 LivePen 點讀筆。下載後請檔案複製到點讀筆即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "Jump to Live_My Body Parts.ecm",
       "x64bits": "Jump to Live_My Body Parts.ecm"
@@ -1421,7 +1421,7 @@
       "date": "1/9/17",
       "product": "Jump To Live My Body Parts_身體書",
       "desc": "點讀筆音檔--bnl檔,適用於 MyVoice 點讀筆。下載後請檔案複製到點讀筆即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "JumpTo Live My Body Parts.bnl",
       "x64bits": "JumpTo Live My Body Parts.bnl"
@@ -1430,7 +1430,7 @@
       "date": "1/9/17",
       "product": "Jump To Live My Phonics 1_發音書 1",
       "desc": "點讀筆音檔--ECM檔,適用於 LivePen 點讀筆。下載後請檔案複製到點讀筆即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "Jump To Live My Phonics 1.ecm",
       "x64bits": "Jump To Live My Phonics 1.ecm"
@@ -1439,7 +1439,7 @@
       "date": "1/9/17",
       "product": "Jump To Live My Phonics 1_發音書 1",
       "desc": "點讀筆音檔--bnl檔,適用於 MyVoice 點讀筆。下載後請檔案複製到點讀筆即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "Jump To Live My Phonics 1.bnl",
       "x64bits": "Jump To Live My Phonics 1.bnl"
@@ -1448,7 +1448,7 @@
       "date": "1/9/17",
       "product": "Jump To Live My Phonics 1_發音書 2",
       "desc": "點讀筆音檔--bnl檔,適用於 MyVoice 點讀筆。下載後請檔案複製到點讀筆即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "Jump To Live My Phonics 2.bnl",
       "x64bits": "Jump To Live My Phonics 2.bnl"
@@ -1457,7 +1457,7 @@
       "date": "1/9/17",
       "product": "Jump To Live My Phonics 1_發音書 2",
       "desc": "點讀筆音檔--ECM檔,適用於 LivePen 點讀筆。下載後請檔案複製到點讀筆即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "Jump to Live_My Phonics 2.ecm",
       "x64bits": "Jump to Live_My Phonics 2.ecm"
@@ -1466,7 +1466,7 @@
       "date": "9/8/16",
       "product": "食衣住行英語通(口袋書)",
       "desc": "課文mp3檔案----下載後請解壓縮",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "食衣住行英語通(口袋書) MP3音檔.rar",
       "x64bits": "食衣住行英語通(口袋書) MP3音檔.rar"
@@ -1475,7 +1475,7 @@
       "date": "9/8/16",
       "product": "食衣住行英語通(口袋書) --點讀筆音檔--ECM檔",
       "desc": "點讀筆音檔--ECM檔,適用於 LivePen 點讀筆。下載後請檔案複製到點讀筆即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "食衣住行英語通(口袋書) 點讀音檔.ECM",
       "x64bits": "食衣住行英語通(口袋書) 點讀音檔.ECM"
@@ -1484,7 +1484,7 @@
       "date": "9/8/16",
       "product": "食衣住行英語通(口袋書)--點讀筆音檔--bnl檔",
       "desc": "點讀筆音檔--bnl檔,適用於 MyVoice 點讀筆。下載後請檔案複製到點讀筆即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "食衣住行英語通(口袋書) 點讀音檔.bnl",
       "x64bits": "食衣住行英語通(口袋書) 點讀音檔.bnl"
@@ -1493,7 +1493,7 @@
       "date": "6/27/16",
       "product": "臨時一定要會的日語4000句",
       "desc": "課文mp3檔案----下載後請解壓縮",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "臨時一定要會的日語4000句mp3.rar",
       "x64bits": "臨時一定要會的日語4000句mp3.rar"
@@ -1502,7 +1502,7 @@
       "date": "3/3/16",
       "product": "臨時一定要會的日語4000句--點讀筆音檔--bnl檔",
       "desc": "點讀筆音檔--bnl檔,適用於 MyVoice 點讀筆。下載後請檔案複製到點讀筆即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "臨時一定要會的日語4000句.bnl",
       "x64bits": "臨時一定要會的日語4000句.bnl"
@@ -1511,7 +1511,7 @@
       "date": "3/3/16",
       "product": "臨時一定要會的日語4000句--點讀筆音檔--ECM檔",
       "desc": "點讀筆音檔--ECM檔,適用於 LivePen 點讀筆。下載後請檔案複製到點讀筆即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "臨時一定要會的日語4000句.ECM",
       "x64bits": "臨時一定要會的日語4000句.ECM"
@@ -1520,7 +1520,7 @@
       "date": "9/30/15",
       "product": "彩繪圖解英語通--點讀筆bnl音檔(Part 1/2)",
       "desc": "點讀筆音檔,適用於 MyVocie 點讀筆 ****共有2個檔案,請一併下載****下載後請點兩下並按'安裝',會自動解壓縮到c:\\~bnl 再到此路徑下,將bnl檔複製到點讀筆即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "彩繪圖解英語通_bnl.part1.exe",
       "x64bits": "彩繪圖解英語通_bnl.part1.exe"
@@ -1529,7 +1529,7 @@
       "date": "9/30/15",
       "product": "彩繪圖解英語通--點讀筆bnl音檔(Part 2/2)",
       "desc": "點讀筆音檔,適用於 MyVocie 點讀筆 ****共有2個檔案,請一併下載再執行安裝",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "彩繪圖解英語通_bnl.part2.rar",
       "x64bits": "彩繪圖解英語通_bnl.part2.rar"
@@ -1538,7 +1538,7 @@
       "date": "9/11/15",
       "product": "彩繪圖解英語通--點讀筆ECM音檔(Part 1/2)",
       "desc": "點讀筆音檔,適用於 LivePen 點讀筆 ****共有2個檔案,請一併下載****下載後請點兩下並按'安裝',會自動解壓縮到c:\\~ECM, 再到此路徑下,將ECM檔複製到點讀筆即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "彩繪圖解英語通_ECM.part1.exe",
       "x64bits": "彩繪圖解英語通_ECM.part1.exe"
@@ -1547,7 +1547,7 @@
       "date": "9/11/15",
       "product": "彩繪圖解英語通--點讀筆ECM音檔(Part 2/2)",
       "desc": "點讀筆音檔,適用於 LivePen 點讀筆 ****共有2個檔案,請一併下載再執行安裝",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "彩繪圖解英語通_ECM.part2.rar",
       "x64bits": "彩繪圖解英語通_ECM.part2.rar"
@@ -1556,7 +1556,7 @@
       "date": "1/12/15",
       "product": "點讀筆",
       "desc": "點讀筆附件--英漢字典卡的音檔 (下載的檔案為壓縮檔, 請直接點下兩下後'安裝', 會自動解壓縮到 c:\\~點讀筆)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Books-NoCD",
       "x32bits": "18000.exe",
       "x64bits": "18000.exe"
@@ -1567,7 +1567,7 @@
       "date": "1/4/23",
       "product": "CNN雜誌2023年01月號",
       "desc": "修正BNL點讀音檔錯誤的內容",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "CNN_2301pen.zip",
       "x64bits": "CNN_2301pen.zip"
@@ -1576,7 +1576,7 @@
       "date": "11/10/20",
       "product": "CNN雜誌2020年10月號",
       "desc": "更新字典解說 (for 光碟版)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_2010.exe",
       "x64bits": "x64_CNN_2010.exe"
@@ -1585,7 +1585,7 @@
       "date": "7/17/18",
       "product": "CNN雜誌2018年7月號",
       "desc": "修正光碟單字解說 詞性 錯誤問題 (課程單元:新世代仿生環保材料 向大自然取經)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1807.exe",
       "x64bits": "x64_CNN_1807.exe"
@@ -1594,7 +1594,7 @@
       "date": "9/12/17",
       "product": "CNN雜誌2017年10月號",
       "desc": "修正光碟主畫面, MV的連結網址",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1710.exe",
       "x64bits": "x64_CNN_1710.exe"
@@ -1603,7 +1603,7 @@
       "date": "5/9/17",
       "product": "CNN雜誌2017年6月號",
       "desc": "修正課文朗讀mp3標籤內容錯誤 (單元:巴塞隆納之最耗時百年建造的聖家堂)....下載後請解壓縮",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "CNN_1706_MP3.zip",
       "x64bits": "CNN_1706_MP3.zip"
@@ -1612,7 +1612,7 @@
       "date": "1/13/17",
       "product": "CNN雜誌2017年2月號",
       "desc": "修正以下錯誤：學習計畫表對應課文內容的錯誤",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1702.exe",
       "x64bits": "x64_CNN_1702.exe"
@@ -1621,7 +1621,7 @@
       "date": "7/21/16",
       "product": "CNN雜誌2016年8月號",
       "desc": "修正以下錯誤:(1)課程內容 (2)單字內容 (3)片語內容 (4)週測驗內容 (5)字典音檔 (6)單字音檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1608.exe",
       "x64bits": "x64_CNN_1608.exe"
@@ -1630,7 +1630,7 @@
       "date": "12/24/15",
       "product": "CNN雜誌2016年1月號",
       "desc": "修正文字學習的 列印、錄音 功能出現錯誤訊息 ****請注意系統類型為32位元或64位元,並下載對的更新程式****",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1601.exe",
       "x64bits": "x64_CNN_1601.exe"
@@ -1639,7 +1639,7 @@
       "date": "9/11/15",
       "product": "CNN雜誌2015年10月號",
       "desc": "修正學習計劃錯誤的連結 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1510.exe",
       "x64bits": "x64_CNN_1510.exe"
@@ -1648,7 +1648,7 @@
       "date": "7/31/15",
       "product": "CNN雜誌2015年7月號",
       "desc": "測試版程式......新主程式(含32位元和64位元程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "CNN_1507_new.exe",
       "x64bits": "CNN_1507_new.exe"
@@ -1657,7 +1657,7 @@
       "date": "6/24/15",
       "product": "CNN雜誌2015年7月號",
       "desc": "(1) \"文字學習\" 新增快速鍵：鍵盤的向上鍵(上一句)和向下鍵(下一句) (2)修改 VIP讀者操作 登入> 進入課程> 離開,未記錄學習時間",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1507.exe",
       "x64bits": "x64_CNN_1507.exe"
@@ -1666,7 +1666,7 @@
       "date": "5/5/14",
       "product": "CNN雜誌2014年5月號",
       "desc": "修正單元 '全球極端氣候將惡化' 中文翻譯顯示錯誤的問題 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1405.exe",
       "x64bits": "x64_CNN_1405.exe"
@@ -1675,7 +1675,7 @@
       "date": "8/28/13",
       "product": "CNN雜誌2013年9月號",
       "desc": "恢復學習課程的 \"列印\" 功能(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1309.exe",
       "x64bits": "x64_CNN_1309.exe"
@@ -1684,7 +1684,7 @@
       "date": "10/3/12",
       "product": "CNN 雜誌2012年10月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1210.exe",
       "x64bits": "x64_CNN_1210.exe"
@@ -1693,7 +1693,7 @@
       "date": "10/3/12",
       "product": "CNN 雜誌2012年5月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1205.exe",
       "x64bits": "x64_CNN_1205.exe"
@@ -1702,7 +1702,7 @@
       "date": "10/3/12",
       "product": "CNN 雜誌2012年6月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1206.exe",
       "x64bits": "x64_CNN_1206.exe"
@@ -1711,7 +1711,7 @@
       "date": "10/3/12",
       "product": "CNN 雜誌2012年7月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1207.exe",
       "x64bits": "x64_CNN_1207.exe"
@@ -1720,7 +1720,7 @@
       "date": "10/3/12",
       "product": "CNN 雜誌2012年8月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1208.exe",
       "x64bits": "x64_CNN_1208.exe"
@@ -1729,7 +1729,7 @@
       "date": "10/3/12",
       "product": "CNN 雜誌2012年9月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1209.exe",
       "x64bits": "x64_CNN_1209.exe"
@@ -1738,7 +1738,7 @@
       "date": "4/10/12",
       "product": "2012-02 CNN 雜誌光碟",
       "desc": "更新語音辨識判斷問題修正 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1202.exe",
       "x64bits": "x64_CNN_1202.exe"
@@ -1747,7 +1747,7 @@
       "date": "4/10/12",
       "product": "CNN 雜誌2012年3月號",
       "desc": "1.更新語音辨識判斷問題修正 2.針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1203.exe",
       "x64bits": "x64_CNN_1203.exe"
@@ -1756,7 +1756,7 @@
       "date": "4/10/12",
       "product": "CNN 雜誌2012年4月號",
       "desc": "1.更新語音辨識判斷問題修正 2.針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "CNN",
       "x32bits": "x32_CNN_1204.exe",
       "x64bits": "x64_CNN_1204.exe"
@@ -1767,7 +1767,7 @@
       "date": "12/4/17",
       "product": "Discovery 互動英語精選特刊--bnl 檔",
       "desc": "點讀筆音檔--bnl 檔,適用於 MyVoice 點讀筆。下載後請檔案複製到點讀筆的book資料夾, 即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Discovery",
       "x32bits": "Discovery 互動英語精選特刊.bnl",
       "x64bits": "Discovery 互動英語精選特刊.bnl"
@@ -1776,7 +1776,7 @@
       "date": "12/4/17",
       "product": "Discovery 互動英語精選特刊--ECM 檔",
       "desc": "點讀筆音檔--ECM檔,適用於 LivePen 點讀筆。下載後請檔案複製到點讀筆的book資料夾, 即可使用",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Discovery",
       "x32bits": "Discovery 互動英語精選特刊.ECM",
       "x64bits": "Discovery 互動英語精選特刊.ECM"
@@ -1785,7 +1785,7 @@
       "date": "5/10/17",
       "product": "Discovery雜誌2017年6月號",
       "desc": "修正 單字解說 內容錯誤",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Discovery",
       "x32bits": "x32_DCVR1706.exe",
       "x64bits": "x64_DCVR1706.exe"
@@ -1796,7 +1796,7 @@
       "date": "12/20/19",
       "product": "KK音標字型檔",
       "desc": "下載後請點擊安裝",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Else",
       "x32bits": "KKJubi2.ttf",
       "x64bits": "KKJubi2.ttf"
@@ -1805,7 +1805,7 @@
       "date": "1/9/15",
       "product": "元件註冊檔",
       "desc": "互動光碟必要的系統元件註冊檔",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Else",
       "x32bits": "Dlls.exe",
       "x64bits": "Dlls.exe"
@@ -1814,7 +1814,7 @@
       "date": "7/11/14",
       "product": "Flash Player Uninstaller",
       "desc": "Flash Player Uninstaller for v14 以上",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Else",
       "x32bits": "uninstall_flash_player.exe",
       "x64bits": "uninstall_flash_player.exe"
@@ -1823,7 +1823,7 @@
       "date": "10/8/13",
       "product": "版本修正程式",
       "desc": "執行時, 如果出現'Project file not yet checked'可用此程式修正錯誤(適使用於ABC和Live互動光碟)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Else",
       "x32bits": "change_ver.zip",
       "x64bits": "change_ver.zip"
@@ -1832,7 +1832,7 @@
       "date": "8/10/12",
       "product": "Flash Player 10b",
       "desc": "Adobe Flash Player 10b 安裝程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Else",
       "x32bits": "install_flash_player_10_active_x.exe"
     }
@@ -1842,7 +1842,7 @@
       "date": "10/19/18",
       "product": "21世紀情境式日語圖解字典-全新增修版",
       "desc": "執行於Vista/Windows7系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)****只適用產品名稱JGraph_01,其他版本請勿更新****",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Graph",
       "x32bits": "x32_JGraph_01.exe",
       "x64bits": "x64_JGraph_01.exe"
@@ -1851,7 +1851,7 @@
       "date": "12/14/15",
       "product": "生活情境日語圖解大百科(點讀版)",
       "desc": "解決執行時,出現\"Runtime error 380\"(執行階段錯誤380) ****請注意系統類型為32位元或64位元,並下載對的更新程式****",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Graph",
       "x32bits": "x32_LiveJT_01.exe",
       "x64bits": "x64_LiveJT_01.exe"
@@ -1860,7 +1860,7 @@
       "date": "7/23/15",
       "product": "21世紀情境式日語圖解字典(點讀擴編版)",
       "desc": "解決執行時,出現\"Runtime error 380\"(執行階段錯誤380)......只適用於點讀擴編版,其他版本請勿更新 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Graph",
       "x32bits": "x32_JGraph_04.exe",
       "x64bits": "x64_JGraph_04.exe"
@@ -1869,7 +1869,7 @@
       "date": "8/2/13",
       "product": "生活英語圖解大百科-工作與社交",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Graph",
       "x32bits": "x32_EGraph_WS.exe",
       "x64bits": "x64_EGraph_WS.exe"
@@ -1878,7 +1878,7 @@
       "date": "8/2/13",
       "product": "生活英語圖解大百科-生活與節慶",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Graph",
       "x32bits": "x32_EGraph_LF.exe",
       "x64bits": "x64_EGraph_LF.exe"
@@ -1887,7 +1887,7 @@
       "date": "8/2/13",
       "product": "生活英語圖解大百科-旅遊與休閒篇",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Graph",
       "x32bits": "x32_Egraph_TE.exe",
       "x64bits": "x64_Egraph_TE.exe"
@@ -1896,7 +1896,7 @@
       "date": "7/10/13",
       "product": "21世紀情境式英語圖解字典",
       "desc": "*****全新擴編版請勿更新*****執行於Vista/Windows7系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Graph",
       "x32bits": "x32_Illustr2.exe",
       "x64bits": "x64_Illustr2.exe"
@@ -1905,7 +1905,7 @@
       "date": "1/7/13",
       "product": "圖解法語-情境式法語圖解字典",
       "desc": "第3軌音檔之更新檔案",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Graph",
       "x32bits": "FGraph_01_03.rar",
       "x64bits": "FGraph_01_03.rar"
@@ -1914,7 +1914,7 @@
       "date": "10/23/12",
       "product": "圖解法語-情境式法語圖解字典",
       "desc": "(1)修正部分課文內容 (2)針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Graph",
       "x32bits": "x32_FGraph_01.exe",
       "x64bits": "x64_FGraph_01.exe"
@@ -1923,7 +1923,7 @@
       "date": "3/19/10",
       "product": "韓語圖解字典",
       "desc": "解決圖解：按\"逐一出現\"+\"反覆朗讀\"無法反覆讀出的問題 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Graph",
       "x32bits": "x32_KGraph_01.exe",
       "x64bits": "x64_KGraph_01.exe"
@@ -1932,7 +1932,7 @@
       "date": "8/16/13",
       "product": "Step by Step 情境圖解英語聽力大突破",
       "desc": "更新MP3音檔: 第 217 & 287 音軌",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Graph",
       "x32bits": "LGraph01_mp3.rar",
       "x64bits": "LGraph01_mp3.rar"
@@ -1943,7 +1943,7 @@
       "date": "11/15/17",
       "product": "互動日本語雜誌2017年10月號",
       "desc": "解決在win10下, 漢字的注音,被內文遮住,顯示不完全的問題",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "JPN",
       "x32bits": "x32_JPN_1710.exe",
       "x64bits": "x64_JPN_1710.exe"
@@ -1952,7 +1952,7 @@
       "date": "11/15/17",
       "product": "互動日本語雜誌2017年11月號",
       "desc": "解決在win10下, 漢字的注音,被內文遮住,顯示不完全的問題",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "JPN",
       "x32bits": "x32_JPN_1711.exe",
       "x64bits": "x64_JPN_1711.exe"
@@ -1961,7 +1961,7 @@
       "date": "11/15/17",
       "product": "互動日本語雜誌2017年2月號",
       "desc": "解決在win10下, 漢字的注音,被內文遮住,顯示不完全的問題",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "JPN",
       "x32bits": "x32_JPN_1702.exe",
       "x64bits": "x64_JPN_1702.exe"
@@ -1970,7 +1970,7 @@
       "date": "11/15/17",
       "product": "互動日本語雜誌2017年3月號",
       "desc": "解決在win10下, 漢字的注音,被內文遮住,顯示不完全的問題",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "JPN",
       "x32bits": "x32_JPN_1703.exe",
       "x64bits": "x64_JPN_1703.exe"
@@ -1979,7 +1979,7 @@
       "date": "11/15/17",
       "product": "互動日本語雜誌2017年4月號",
       "desc": "解決在win10下, 漢字的注音,被內文遮住,顯示不完全的問題",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "JPN",
       "x32bits": "x32_JPN_1704.exe",
       "x64bits": "x64_JPN_1704.exe"
@@ -1988,7 +1988,7 @@
       "date": "11/15/17",
       "product": "互動日本語雜誌2017年5月號",
       "desc": "解決在win10下, 漢字的注音,被內文遮住,顯示不完全的問題",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "JPN",
       "x32bits": "x32_JPN_1705.exe",
       "x64bits": "x64_JPN_1705.exe"
@@ -1997,7 +1997,7 @@
       "date": "11/15/17",
       "product": "互動日本語雜誌2017年6月號",
       "desc": "解決在win10下, 漢字的注音,被內文遮住,顯示不完全的問題",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "JPN",
       "x32bits": "x32_JPN_1706.exe",
       "x64bits": "x64_JPN_1706.exe"
@@ -2006,7 +2006,7 @@
       "date": "11/15/17",
       "product": "互動日本語雜誌2017年7月號",
       "desc": "解決在win10下, 漢字的注音,被內文遮住,顯示不完全的問題",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "JPN",
       "x32bits": "x32_JPN_1707.exe",
       "x64bits": "x64_JPN_1707.exe"
@@ -2015,7 +2015,7 @@
       "date": "11/15/17",
       "product": "互動日本語雜誌2017年8月號",
       "desc": "解決在win10下, 漢字的注音,被內文遮住,顯示不完全的問題",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "JPN",
       "x32bits": "x32_JPN_1708.exe",
       "x64bits": "x64_JPN_1708.exe"
@@ -2024,7 +2024,7 @@
       "date": "11/15/17",
       "product": "互動日本語雜誌2017年9月號",
       "desc": "解決在win10下, 漢字的注音,被內文遮住,顯示不完全的問題",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "JPN",
       "x32bits": "x32_JPN_1709.exe",
       "x64bits": "x64_JPN_1709.exe"
@@ -2035,7 +2035,7 @@
       "date": "4/22/22",
       "product": "Live互動英語雜誌2022年5月號",
       "desc": "修正課文內容",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live2205.exe",
       "x64bits": "x64_Live2205.exe"
@@ -2044,7 +2044,7 @@
       "date": "12/7/21",
       "product": "Live互動英語雜誌2021年11月號",
       "desc": "修正測驗單元的問題",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live2111.exe",
       "x64bits": "x64_Live2111.exe"
@@ -2053,7 +2053,7 @@
       "date": "3/31/21",
       "product": "Live互動英語雜誌2021年4月號",
       "desc": "修正課文內容",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live2104.exe",
       "x64bits": "x64_Live2104.exe"
@@ -2062,7 +2062,7 @@
       "date": "4/9/20",
       "product": "Live互動英語雜誌2020年1月號",
       "desc": "修正VIP課程解講學習紀錄",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live2001.exe",
       "x64bits": "x64_Live2001.exe"
@@ -2071,7 +2071,7 @@
       "date": "4/9/20",
       "product": "Live互動英語雜誌2020年2月號",
       "desc": "修正VIP課程解講學習紀錄",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live2002.exe",
       "x64bits": "x64_Live2002.exe"
@@ -2080,7 +2080,7 @@
       "date": "4/9/20",
       "product": "Live互動英語雜誌2020年3月號",
       "desc": "修正VIP課程解講學習紀錄",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live2003.exe",
       "x64bits": "x64_Live2003.exe"
@@ -2089,7 +2089,7 @@
       "date": "11/7/19",
       "product": "Live互動英語雜誌2019年11月號",
       "desc": "修正錯誤：當螢幕解析度設定在1024*768時,顯示錯誤無法執行",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1911.exe",
       "x64bits": "x64_Live1911.exe"
@@ -2098,7 +2098,7 @@
       "date": "9/26/19",
       "product": "Live互動英語雜誌2019年9月號",
       "desc": "更新 9月17日 <不用運動的保健方法2>, 測驗:句子重組 產生的錯誤問題",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1909.exe",
       "x64bits": "x64_Live1909.exe"
@@ -2107,7 +2107,7 @@
       "date": "5/29/18",
       "product": "Live雜誌2018年7月號",
       "desc": "更新 翻譯練習 內容",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1807.exe",
       "x64bits": "x64_Live1807.exe"
@@ -2116,7 +2116,7 @@
       "date": "10/13/15",
       "product": "Live雜誌2015年10月號 (CDROM/MP3)",
       "desc": "修正10/19和10/20課程講解音檔內容----適用光碟版本：CDROM/MP3 ****請注意系統類型為32位元或64位元,並下載對的更新程式****",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1510_CD.exe",
       "x64bits": "x64_Live1510_CD.exe"
@@ -2125,7 +2125,7 @@
       "date": "10/13/15",
       "product": "Live雜誌2015年10月號 (DVDROM/MP3)",
       "desc": "修正10/19和10/20課程講解影片內容----適用光碟版本：DVDROM/MP3 ****請注意系統類型為32位元或64位元,並下載對的更新程式****",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1510_DVD.exe",
       "x64bits": "x64_Live1510_DVD.exe"
@@ -2134,7 +2134,7 @@
       "date": "10/13/15",
       "product": "Live雜誌2015年10月號 --MP3音檔",
       "desc": "修正10/19和10/20課程講解MP3音檔內容 ****此為壓縮檔,下載後請解壓縮",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "Live1510_MP3.zip",
       "x64bits": "Live1510_MP3.zip"
@@ -2143,7 +2143,7 @@
       "date": "7/3/15",
       "product": "Live雜誌2015年7月號",
       "desc": "(企業用戶專用修正程式) 修改 VIP讀者操作 登入> 進入課程> 離開,未記錄學習時間 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1507.exe",
       "x64bits": "x64_Live1507.exe"
@@ -2152,7 +2152,7 @@
       "date": "7/3/15",
       "product": "Live雜誌2015年8月號",
       "desc": "(企業用戶專用修正程式) 修改 VIP讀者操作 登入> 進入課程> 離開,未記錄學習時間 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1508.exe",
       "x64bits": "x64_Live1508.exe"
@@ -2161,7 +2161,7 @@
       "date": "5/15/15",
       "product": "Live互動英語雜誌-2015年5月號",
       "desc": "Live互動英語雜誌-2015年5月號-背誦卡",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "Live-2015年5月背誦卡.pdf",
       "x64bits": "Live-2015年5月背誦卡.pdf"
@@ -2170,7 +2170,7 @@
       "date": "5/15/15",
       "product": "Live互動英語雜誌-2015年6月號",
       "desc": "Live互動英語雜誌-2015年6月號-背誦卡",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "Live-2015年6月背誦卡.pdf",
       "x64bits": "Live-2015年6月背誦卡.pdf"
@@ -2179,7 +2179,7 @@
       "date": "3/30/15",
       "product": "Live互動英語雜誌-2015年3月號",
       "desc": "Live互動英語雜誌-2015年3月號-背誦卡",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "Live-2015年3月背誦卡.pdf",
       "x64bits": "Live-2015年3月背誦卡.pdf"
@@ -2188,7 +2188,7 @@
       "date": "3/30/15",
       "product": "Live互動英語雜誌-2015年4月號",
       "desc": "Live互動英語雜誌-2015年4月號-背誦卡",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "Live-2015年4月背誦卡.pdf",
       "x64bits": "Live-2015年4月背誦卡.pdf"
@@ -2197,7 +2197,7 @@
       "date": "1/5/15",
       "product": "Live互動英語雜誌-2015年1月號",
       "desc": "修正全民英檢, 無法列印問題 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1501.exe",
       "x64bits": "x64_Live1501.exe"
@@ -2206,7 +2206,7 @@
       "date": "12/30/14",
       "product": "Live互動英語雜誌-2014年12月號",
       "desc": "Live互動英語雜誌-2014年12月號-背誦卡",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "Live-2014年12月背誦卡.pdf",
       "x64bits": "Live-2014年12月背誦卡.pdf"
@@ -2215,7 +2215,7 @@
       "date": "12/30/14",
       "product": "Live互動英語雜誌-2015年1月號",
       "desc": "Live互動英語雜誌-2015年1月號-背誦卡",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "Live-2015年1月背誦卡.pdf",
       "x64bits": "Live-2015年1月背誦卡.pdf"
@@ -2224,7 +2224,7 @@
       "date": "10/14/14",
       "product": "Live雜誌2014年11月號",
       "desc": "新增VIP客戶手機登入判斷功能 (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1411.exe",
       "x64bits": "x64_Live1411.exe"
@@ -2233,7 +2233,7 @@
       "date": "2/10/14",
       "product": "Live雜誌2014年3月號",
       "desc": "更新焦點話題圖檔(91頁) (請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1403.exe",
       "x64bits": "x64_Live1403.exe"
@@ -2242,7 +2242,7 @@
       "date": "9/17/13",
       "product": "Live雜誌2013年10月號",
       "desc": "恢復學習課程的 \"列印\" 功能(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1310.exe",
       "x64bits": "x64_Live1310.exe"
@@ -2251,7 +2251,7 @@
       "date": "8/28/13",
       "product": "Live雜誌2013年9月號",
       "desc": "恢復學習課程的 \"列印\" 功能(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1309.exe",
       "x64bits": "x64_Live1309.exe"
@@ -2260,7 +2260,7 @@
       "date": "4/9/13",
       "product": "Live 2013年4月號",
       "desc": "更正Lesson 28音檔,以及05.mp3, 36.mp3音檔誤植發音問題 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1304.exe",
       "x64bits": "x64_Live1304.exe"
@@ -2269,7 +2269,7 @@
       "date": "2/18/13",
       "product": "Live 2013年2月號雜誌",
       "desc": "修正課程講解影片連結錯誤的問題 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1302.exe",
       "x64bits": "x64_Live1302.exe"
@@ -2278,7 +2278,7 @@
       "date": "12/6/12",
       "product": "Live 2013年1月號雜誌",
       "desc": "Live 2013年1月號雜誌-單字卡完整版",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "1月單字卡-完整版.pdf",
       "x64bits": "1月單字卡-完整版.pdf"
@@ -2287,7 +2287,7 @@
       "date": "10/18/12",
       "product": "Live 2012年11月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1211.exe",
       "x64bits": "x64_Live1211.exe"
@@ -2296,7 +2296,7 @@
       "date": "10/2/12",
       "product": "Live 2012年10月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1210.exe",
       "x64bits": "x64_Live1210.exe"
@@ -2305,7 +2305,7 @@
       "date": "10/2/12",
       "product": "Live 2012年3月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1203.exe",
       "x64bits": "x64_Live1203.exe"
@@ -2314,7 +2314,7 @@
       "date": "10/2/12",
       "product": "Live 2012年4月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1204.exe",
       "x64bits": "x64_Live1204.exe"
@@ -2323,7 +2323,7 @@
       "date": "10/2/12",
       "product": "Live 2012年5月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1205.exe",
       "x64bits": "x64_Live1205.exe"
@@ -2332,7 +2332,7 @@
       "date": "10/2/12",
       "product": "Live 2012年6月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1206.exe",
       "x64bits": "x64_Live1206.exe"
@@ -2341,7 +2341,7 @@
       "date": "10/2/12",
       "product": "Live 2012年7月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1207.exe",
       "x64bits": "x64_Live1207.exe"
@@ -2350,7 +2350,7 @@
       "date": "10/2/12",
       "product": "Live 2012年8月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1208.exe",
       "x64bits": "x64_Live1208.exe"
@@ -2359,7 +2359,7 @@
       "date": "10/2/12",
       "product": "Live 2012年9月號",
       "desc": "針對執行時, 出現\"Runtime error 380\" (執行階段錯誤380)的更新程式 ****請注意系統類型為32位元或64位元,並下載對的更新程式",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "x32_Live1209.exe",
       "x64bits": "x64_Live1209.exe"
@@ -2368,7 +2368,7 @@
       "date": "7/20/12",
       "product": "Live 2012年7月號雜誌",
       "desc": "Live 2012年7月號雜誌-單字卡完整版",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "7月單字卡.pdf",
       "x64bits": "7月單字卡.pdf"
@@ -2377,7 +2377,7 @@
       "date": "7/20/12",
       "product": "Live 2012年8月號雜誌",
       "desc": "Live 2012年8月號雜誌-單字卡完整版",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Live",
       "x32bits": "8月單字卡.pdf",
       "x64bits": "8月單字卡.pdf"
@@ -2388,7 +2388,7 @@
       "date": "4/26/16",
       "product": "互動電影院-扭轉奇蹟 Disc3",
       "desc": "1.執行於Vista/Windows7/Windows8系統之更新檔 2.同時修正文字學習的慢速朗讀會暫停之現象(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Movie",
       "x32bits": "x32_Movie02_3.exe",
       "x64bits": "x64_Movie02_3.exe"
@@ -2397,7 +2397,7 @@
       "date": "8/2/13",
       "product": "互動電影院-男人百分百 Disc1",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Movie",
       "x32bits": "x32_Movie01_1.exe",
       "x64bits": "x64_Movie01_1.exe"
@@ -2406,7 +2406,7 @@
       "date": "8/2/13",
       "product": "互動電影院-驚爆13天 Disc3",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Movie",
       "x32bits": "x32_Movie04_3.exe",
       "x64bits": "x64_Movie04_3.exe"
@@ -2415,7 +2415,7 @@
       "date": "8/2/13",
       "product": "互動電影院-扭轉奇蹟 Disc1",
       "desc": "1.執行於Vista/Windows7/Windows8系統之更新檔 2.同時修正文字學習的慢速朗讀會暫停之現象(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Movie",
       "x32bits": "x32_Movie02_1.exe",
       "x64bits": "x64_Movie02_1.exe"
@@ -2424,7 +2424,7 @@
       "date": "8/2/13",
       "product": "互動電影院-扭轉奇蹟 Disc2",
       "desc": "1.執行於Vista/Windows7/Windows8系統之更新檔 2.同時修正文字學習的慢速朗讀會暫停之現象(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Movie",
       "x32bits": "x32_Movie02_2.exe",
       "x64bits": "x64_Movie02_2.exe"
@@ -2433,7 +2433,7 @@
       "date": "8/2/13",
       "product": "互動電影院-男人百分百 Disc2",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Movie",
       "x32bits": "x32_Movie01_2.exe",
       "x64bits": "x64_Movie01_2.exe"
@@ -2442,7 +2442,7 @@
       "date": "8/2/13",
       "product": "互動電影院-男人百分百 Disc3",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Movie",
       "x32bits": "x32_Movie01_3.exe",
       "x64bits": "x64_Movie01_3.exe"
@@ -2451,7 +2451,7 @@
       "date": "8/2/13",
       "product": "互動電影院-新娘百分百 Disc1",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Movie",
       "x32bits": "x32_Movie03_1.exe",
       "x64bits": "x64_Movie03_1.exe"
@@ -2460,7 +2460,7 @@
       "date": "8/2/13",
       "product": "互動電影院-新娘百分百 Disc2",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Movie",
       "x32bits": "x32_Movie03_2.exe",
       "x64bits": "x64_Movie03_2.exe"
@@ -2469,7 +2469,7 @@
       "date": "8/2/13",
       "product": "互動電影院-新娘百分百 Disc3",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Movie",
       "x32bits": "x32_Movie03_3.exe",
       "x64bits": "x64_Movie03_3.exe"
@@ -2478,7 +2478,7 @@
       "date": "8/2/13",
       "product": "互動電影院-驚爆13天 Disc1",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Movie",
       "x32bits": "x32_Movie04_1.exe",
       "x64bits": "x64_Movie04_1.exe"
@@ -2487,7 +2487,7 @@
       "date": "8/2/13",
       "product": "互動電影院-驚爆13天 Disc2",
       "desc": "執行於Vista/Windows7/Windows8系統之更新檔(請注意系統類型為32位元或64位元,並下載對的更新程式)",
-      "URL": "http://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
       "Folder": "Movie",
       "x32bits": "x32_Movie04_2.exe",
       "x64bits": "x64_Movie04_2.exe"
