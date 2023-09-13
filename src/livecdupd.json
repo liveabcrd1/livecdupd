@@ -2032,6 +2032,15 @@
   ],
   "Live": [
     {
+      "date": "9/13/23",
+      "product": "Live互動英語雜誌2023年9月號",
+      "desc": "更新L34課程內容、音檔、週測驗內容、資料庫更新",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "Folder": "Live",
+      "x32bits": "x32_Live2309.exe",
+      "x64bits": "x64_Live2309.exe"
+    },
+    {
       "date": "4/22/22",
       "product": "Live互動英語雜誌2022年5月號",
       "desc": "修正課文內容",
