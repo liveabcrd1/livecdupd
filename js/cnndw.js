@@ -80,7 +80,7 @@ function getKindJson(fpath, fname, fkind) {
 					"</p> </td> <td><a class='x32btn btn w3-win8-brown-l4 w3-hover-pale-green' href='"+ url + fl + "/"+ x32file + "' " + 
 					" data-x32='" + x32file + "' data-url='" + url + "' data-folder='" + field[jj].Folder + 
 					"' download ><span class='icon-download'></span> </a></td>" +					
-					"<td> <a class='x64btn btn w3-win8-brown-l4 w3-hover-pale-green' href='"+ url + fl + "/"+ x32file + "' " + 
+					"<td> <a class='x64btn btn w3-win8-brown-l4 w3-hover-pale-green' href='"+ url + fl + "/"+ x64file + "' " + 
 					"' data-x64='" + x64file + "' data-url='" + url + "' data-folder='" + field[jj].Folder + 					
 					"' download> <span class='icon-download'></span></a> </td> " + 
 					" </tr>";
