@@ -1,6 +1,15 @@
 {
   "ABC": [
     {
+      "date": "11/08/23",
+      "product": "ABC互動英語雜誌2023年11月號",
+      "desc": "修正索引功能",
+      "URL": "https://s3.hicloud.net.tw/s3cdupd.liveabc.com/",
+      "Folder": "ABC",
+      "x32bits": "x32_ABC_2311.exe",
+      "x64bits": "x64_ABC_2311.exe"
+    },  
+    {
       "date": "10/27/22",
       "product": "ABC互動英語雜誌2022年10月號",
       "desc": "更新 周測驗 內容",
